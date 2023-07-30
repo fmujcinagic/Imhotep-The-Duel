@@ -1,2 +1,2 @@
-# Imhotep The Duel
+# Imhotep: The Duel
  
