@@ -16,3 +16,9 @@ Run ```setup.sh``` linux/macOS or ```setup.bat``` on windows.
 ### Building the project
 It is recommended to create a build folder inside the root directory of this repository. Inside this ```build``` folder ```run cmake .```. to setup the build system. After this step is completed you can build your code with ```cmake --build .```. On newer cmake version you can use cmake ```--build . --parallel``` to speed up the compilation.
 This will generate the executable imhotep_server inside the build folder. On Windows the executable will be located in a subdirectory named Debug inside the build folder.
+
+## Introduction Screen
+![Introduction Screen](/images/introImage.png)
+
+## Gameplay
+![Gameplay](/images/gameplayImage.png)
